@@ -12,5 +12,5 @@ toc_footers:
 includes:
 {::INCLUDES::}
 
-# search: true
+search: true
 ---
